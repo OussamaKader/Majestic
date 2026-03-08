@@ -17,16 +17,11 @@ Ce projet est une **plateforme e-commerce** développée principalement avec **H
 - Mise à jour dynamique du total de la commande.
 - Interface responsive adaptée aux différents types d’écrans.
 
-*Aperçu du projet*
-## 🚀 Live Demo
+*Live Demo*
 
 🌐 **Website:**  
 https://oussamakader.github.io/Majestic/Website/
 
 ⚙️ **Admin Panel:**  
 https://oussamakader.github.io/Majestic/Admin/
-### 🌐 Site Web
-<a href="https://oussamakader.github.io/Majestic/Website/" target="_blank" >Cliquer ici pour prévisualiser</a>
 
-### ⚙️ Administration
-<a href="https://oussamakader.github.io/Majestic/Admin/" target="_blank">Cliquer ici pour prévisualiser</a>
