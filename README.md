@@ -19,8 +19,8 @@ Ce projet est une **plateforme e-commerce** développée principalement avec **H
 
 *Aperçu du projet*
 
-Site Web
-[Cliquer ici pour prévisualiser](https://oussamakader.github.io/Majestic/Website/)
+### 🌐 Site Web
+<a href="https://oussamakader.github.io/Majestic/Website/" target="_blank">Cliquer ici pour prévisualiser</a>
 
-Administration
-[Cliquer ici pour prévisualiser](https://oussamakader.github.io/Majestic/Admin/)
+### ⚙️ Administration
+<a href="https://oussamakader.github.io/Majestic/Admin/" target="_blank">Cliquer ici pour prévisualiser</a>
